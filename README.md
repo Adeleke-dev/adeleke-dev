@@ -1,12 +1,23 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/vkUp1U7.png" alt="QA Engineer Banner" style="width:100%; border-radius: 10px;" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/toyosimathew/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Toyosi Mathew</h1>
 <h3 align="center">Quality Assurance Engineer | Manual & API Testing | Agile | Python QA Automation-in-Progress</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toyosiqa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/toyosiqa?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=adeleke-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/adeleke-dev?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -69,8 +80,21 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toyosiqa&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyosiqa&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeleke-dev&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeleke-dev&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/toyo_0" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/toyo_0" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_Me-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -78,13 +102,18 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/toyosiqa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:toyosimathew3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/toyosimathew/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Adeleke-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 > 🧠 _“Quality is not an act, it is a habit.” – Aristotle_
-
 
