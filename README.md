@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Toyosi Mathew</h1>
-<h3 align="center">Quality Assurance Engineer | Manual & API Testing | Agile | Python QA Automation-in-Progress</h3>
+<h3 align="center">Quality Assurance Engineer | Manual & API Testing | Agile | JavaScript QA Automation-in-Progress</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adeleke-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -28,7 +28,7 @@
 - ⚙️ Tools: **Jira**, **Postman**, **JMeter**, **Zephyr Scale**, **Scandium**, **Azure DevOps**
 - 🧠 Strong in **SDLC/STLC**, Agile, Waterfall, **Test Documentation**, and **UAT**
 - ✅ Built e-commerce QA portfolio projects and contributed to testing across **Java, React, Angular, PHP, Python, .NET environments**
-- 🐍 Currently learning **Python & Selenium** for automation testing
+- 🌀 Currently learning **JavaScript & Selenium & Playwright** for automation testing
 - 🎓 Final year **Computer Science** student at National Open University of Nigeria (2025)
 - 🌍 Open to **remote QA roles** and **visa sponsorship**
 
